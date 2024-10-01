@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="uc.module.setup.componentSetup.com.silabs.ss.framework.project.toolchain.core.default#com.silabs.ss.tool.ide.arm.toolchain.gnu.cdt:10.2.1.20201103.gcc" propertyScope="project">
+  <folder name="gecko_sdk_3.2.9">
+    <folder name="platform">
+      <folder name="Device">
+        <folder name="SiliconLabs">
+          <folder name="EFR32BG13P">
+            <folder name="Source">
+              <folder name="GCC">
+                <file name="startup_efr32bg13p.c" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Source/GCC/startup_efr32bg13p.c"/>
+              </folder>
+              <file name="system_efr32bg13p.c" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Source/system_efr32bg13p.c"/>
+            </folder>
+            <folder name="Include">
+              <file name="efr32bg13p632f512gm48.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p632f512gm48.h"/>
+              <file name="efr32bg13p_acmp.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_acmp.h"/>
+              <file name="efr32bg13p_adc.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_adc.h"/>
+              <file name="efr32bg13p_af_pins.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_af_pins.h"/>
+              <file name="efr32bg13p_af_ports.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_af_ports.h"/>
+              <file name="efr32bg13p_cmu.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_cmu.h"/>
+              <file name="efr32bg13p_cryotimer.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_cryotimer.h"/>
+              <file name="efr32bg13p_crypto.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_crypto.h"/>
+              <file name="efr32bg13p_csen.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_csen.h"/>
+              <file name="efr32bg13p_devinfo.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_devinfo.h"/>
+              <file name="efr32bg13p_dma_descriptor.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_dma_descriptor.h"/>
+              <file name="efr32bg13p_dmareq.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_dmareq.h"/>
+              <file name="efr32bg13p_emu.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_emu.h"/>
+              <file name="efr32bg13p_etm.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_etm.h"/>
+              <file name="efr32bg13p_fpueh.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_fpueh.h"/>
+              <file name="efr32bg13p_gpcrc.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_gpcrc.h"/>
+              <file name="efr32bg13p_gpio.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_gpio.h"/>
+              <file name="efr32bg13p_gpio_p.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_gpio_p.h"/>
+              <file name="efr32bg13p_i2c.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_i2c.h"/>
+              <file name="efr32bg13p_idac.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_idac.h"/>
+              <file name="efr32bg13p_ldma.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_ldma.h"/>
+              <file name="efr32bg13p_ldma_ch.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_ldma_ch.h"/>
+              <file name="efr32bg13p_lesense.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_lesense.h"/>
+              <file name="efr32bg13p_lesense_buf.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_lesense_buf.h"/>
+              <file name="efr32bg13p_lesense_ch.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_lesense_ch.h"/>
+              <file name="efr32bg13p_lesense_st.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_lesense_st.h"/>
+              <file name="efr32bg13p_letimer.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_letimer.h"/>
+              <file name="efr32bg13p_leuart.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_leuart.h"/>
+              <file name="efr32bg13p_msc.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_msc.h"/>
+              <file name="efr32bg13p_pcnt.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_pcnt.h"/>
+              <file name="efr32bg13p_prs.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_prs.h"/>
+              <file name="efr32bg13p_prs_ch.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_prs_ch.h"/>
+              <file name="efr32bg13p_prs_signals.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_prs_signals.h"/>
+              <file name="efr32bg13p_rmu.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_rmu.h"/>
+              <file name="efr32bg13p_romtable.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_romtable.h"/>
+              <file name="efr32bg13p_rtc.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_rtc.h"/>
+              <file name="efr32bg13p_rtc_comp.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_rtc_comp.h"/>
+              <file name="efr32bg13p_rtcc.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_rtcc.h"/>
+              <file name="efr32bg13p_rtcc_cc.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_rtcc_cc.h"/>
+              <file name="efr32bg13p_rtcc_ret.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_rtcc_ret.h"/>
+              <file name="efr32bg13p_smu.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_smu.h"/>
+              <file name="efr32bg13p_timer.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_timer.h"/>
+              <file name="efr32bg13p_timer_cc.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_timer_cc.h"/>
+              <file name="efr32bg13p_trng.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_trng.h"/>
+              <file name="efr32bg13p_usart.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_usart.h"/>
+              <file name="efr32bg13p_vdac.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_vdac.h"/>
+              <file name="efr32bg13p_vdac_opa.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_vdac_opa.h"/>
+              <file name="efr32bg13p_wdog.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_wdog.h"/>
+              <file name="efr32bg13p_wdog_pch.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/efr32bg13p_wdog_pch.h"/>
+              <file name="em_device.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/em_device.h"/>
+              <file name="system_efr32bg13p.h" linked="false" uri="studio:/sdk/platform/Device/SiliconLabs/EFR32BG13P/Include/system_efr32bg13p.h"/>
+            </folder>
+          </folder>
+        </folder>
+      </folder>
+      <folder name="common">
+        <folder name="inc">
+          <file name="sl_atomic.h" linked="false" uri="studio:/sdk/platform/common/inc/sl_atomic.h"/>
+          <file name="sl_enum.h" linked="false" uri="studio:/sdk/platform/common/inc/sl_enum.h"/>
+          <file name="sl_string.h" linked="false" uri="studio:/sdk/platform/common/inc/sl_string.h"/>
+          <file name="sl_slist.h" linked="false" uri="studio:/sdk/platform/common/inc/sl_slist.h"/>
+          <file name="sl_status.h" linked="false" uri="studio:/sdk/platform/common/inc/sl_status.h"/>
+        </folder>
+        <folder name="toolchain">
+          <folder name="src">
+            <file name="sl_memory.c" linked="false" uri="studio:/sdk/platform/common/toolchain/src/sl_memory.c"/>
+          </folder>
+          <folder name="inc">
+            <file name="sl_memory_region.h" linked="false" uri="studio:/sdk/platform/common/toolchain/inc/sl_memory_region.h"/>
+            <file name="sl_memory.h" linked="false" uri="studio:/sdk/platform/common/toolchain/inc/sl_memory.h"/>
+            <file name="sl_gcc_preinclude.h" linked="false" uri="studio:/sdk/platform/common/toolchain/inc/sl_gcc_preinclude.h"/>
+          </folder>
+        </folder>
+        <folder name="src">
+          <file name="sl_string.c" linked="false" uri="studio:/sdk/platform/common/src/sl_string.c"/>
+          <file name="sl_slist.c" linked="false" uri="studio:/sdk/platform/common/src/sl_slist.c"/>
+          <file name="sl_status.c" linked="false" uri="studio:/sdk/platform/common/src/sl_status.c"/>
+        </folder>
+      </folder>
+      <folder name="bootloader">
+        <folder name="api">
+          <file name="btl_interface.c" linked="false" uri="studio:/sdk/platform/bootloader/api/btl_interface.c"/>
+          <file name="btl_interface_storage.c" linked="false" uri="studio:/sdk/platform/bootloader/api/btl_interface_storage.c"/>
+          <file name="application_properties.h" linked="false" uri="studio:/sdk/platform/bootloader/api/application_properties.h"/>
+          <file name="btl_errorcode.h" linked="false" uri="studio:/sdk/platform/bootloader/api/btl_errorcode.h"/>
+          <file name="btl_interface.h" linked="false" uri="studio:/sdk/platform/bootloader/api/btl_interface.h"/>
+          <file name="btl_interface_parser.h" linked="false" uri="studio:/sdk/platform/bootloader/api/btl_interface_parser.h"/>
+          <file name="btl_interface_storage.h" linked="false" uri="studio:/sdk/platform/bootloader/api/btl_interface_storage.h"/>
+          <file name="btl_reset_info.h" linked="false" uri="studio:/sdk/platform/bootloader/api/btl_reset_info.h"/>
+        </folder>
+      </folder>
+      <folder name="CMSIS">
+        <folder name="Include">
+          <file name="arm_common_tables.h" linked="false" uri="studio:/sdk/platform/CMSIS/Include/arm_common_tables.h"/>
+          <file name="arm_const_structs.h" linked="false" uri="studio:/sdk/platform/CMSIS/Include/arm_const_structs.h"/>
+          <file name="arm_math.h" linked="false" uri="studio:/sdk/platform/CMSIS/Include/arm_math.h"/>
+          <file name="cmsis_compiler.h" linked="false" uri="studio:/sdk/platform/CMSIS/Include/cmsis_compiler.h"/>
+          <file name="cmsis_version.h" linked="false" uri="studio:/sdk/platform/CMSIS/Include/cmsis_version.h"/>
+          <file name="cmsis_gcc.h" linked="false" uri="studio:/sdk/platform/CMSIS/Include/cmsis_gcc.h"/>
+          <file name="core_cm4.h" linked="false" uri="studio:/sdk/platform/CMSIS/Include/core_cm4.h"/>
+          <file name="mpu_armv7.h" linked="false" uri="studio:/sdk/platform/CMSIS/Include/mpu_armv7.h"/>
+        </folder>
+      </folder>
+      <folder name="service">
+        <folder name="device_init">
+          <folder name="inc">
+            <file name="sl_device_init_clocks.h" linked="false" uri="studio:/sdk/platform/service/device_init/inc/sl_device_init_clocks.h"/>
+            <file name="sl_device_init_dcdc.h" linked="false" uri="studio:/sdk/platform/service/device_init/inc/sl_device_init_dcdc.h"/>
+            <file name="sl_device_init_emu.h" linked="false" uri="studio:/sdk/platform/service/device_init/inc/sl_device_init_emu.h"/>
+            <file name="sl_device_init_hfxo.h" linked="false" uri="studio:/sdk/platform/service/device_init/inc/sl_device_init_hfxo.h"/>
+            <file name="sl_device_init_lfxo.h" linked="false" uri="studio:/sdk/platform/service/device_init/inc/sl_device_init_lfxo.h"/>
+            <file name="sl_device_init_nvic.h" linked="false" uri="studio:/sdk/platform/service/device_init/inc/sl_device_init_nvic.h"/>
+          </folder>
+          <folder name="src">
+            <file name="sl_device_init_dcdc_s1.c" linked="false" uri="studio:/sdk/platform/service/device_init/src/sl_device_init_dcdc_s1.c"/>
+            <file name="sl_device_init_emu_s1.c" linked="false" uri="studio:/sdk/platform/service/device_init/src/sl_device_init_emu_s1.c"/>
+            <file name="sl_device_init_hfxo_s1.c" linked="false" uri="studio:/sdk/platform/service/device_init/src/sl_device_init_hfxo_s1.c"/>
+            <file name="sl_device_init_lfxo_s1.c" linked="false" uri="studio:/sdk/platform/service/device_init/src/sl_device_init_lfxo_s1.c"/>
+            <file name="sl_device_init_nvic.c" linked="false" uri="studio:/sdk/platform/service/device_init/src/sl_device_init_nvic.c"/>
+          </folder>
+        </folder>
+        <folder name="iostream">
+          <folder name="src">
+            <file name="sl_iostream.c" linked="false" uri="studio:/sdk/platform/service/iostream/src/sl_iostream.c"/>
+            <file name="sl_iostream_retarget_stdio.c" linked="false" uri="studio:/sdk/platform/service/iostream/src/sl_iostream_retarget_stdio.c"/>
+            <file name="sl_iostream_stdlib_config.c" linked="false" uri="studio:/sdk/platform/service/iostream/src/sl_iostream_stdlib_config.c"/>
+            <file name="sl_iostream_uart.c" linked="false" uri="studio:/sdk/platform/service/iostream/src/sl_iostream_uart.c"/>
+            <file name="sl_iostream_usart.c" linked="false" uri="studio:/sdk/platform/service/iostream/src/sl_iostream_usart.c"/>
+          </folder>
+          <folder name="inc">
+            <file name="sl_iostream.h" linked="false" uri="studio:/sdk/platform/service/iostream/inc/sl_iostream.h"/>
+            <file name="sl_iostream_stdlib_config.h" linked="false" uri="studio:/sdk/platform/service/iostream/inc/sl_iostream_stdlib_config.h"/>
+            <file name="sl_iostream_uart.h" linked="false" uri="studio:/sdk/platform/service/iostream/inc/sl_iostream_uart.h"/>
+            <file name="sli_iostream_uart.h" linked="false" uri="studio:/sdk/platform/service/iostream/inc/sli_iostream_uart.h"/>
+            <file name="sl_iostream_usart.h" linked="false" uri="studio:/sdk/platform/service/iostream/inc/sl_iostream_usart.h"/>
+          </folder>
+        </folder>
+        <folder name="mpu">
+          <folder name="src">
+            <file name="sl_mpu.c" linked="false" uri="studio:/sdk/platform/service/mpu/src/sl_mpu.c"/>
+          </folder>
+          <folder name="inc">
+            <file name="sl_mpu.h" linked="false" uri="studio:/sdk/platform/service/mpu/inc/sl_mpu.h"/>
+          </folder>
+        </folder>
+        <folder name="power_manager">
+          <folder name="src">
+            <file name="sl_power_manager.c" linked="false" uri="studio:/sdk/platform/service/power_manager/src/sl_power_manager.c"/>
+            <file name="sl_power_manager_debug.c" linked="false" uri="studio:/sdk/platform/service/power_manager/src/sl_power_manager_debug.c"/>
+            <file name="sl_power_manager_hal_s0_s1.c" linked="false" uri="studio:/sdk/platform/service/power_manager/src/sl_power_manager_hal_s0_s1.c"/>
+            <file name="sli_power_manager_private.h" linked="false" uri="studio:/sdk/platform/service/power_manager/src/sli_power_manager_private.h"/>
+          </folder>
+          <folder name="inc">
+            <file name="sl_power_manager.h" linked="false" uri="studio:/sdk/platform/service/power_manager/inc/sl_power_manager.h"/>
+            <file name="sl_power_manager_debug.h" linked="false" uri="studio:/sdk/platform/service/power_manager/inc/sl_power_manager_debug.h"/>
+            <file name="sli_power_manager.h" linked="false" uri="studio:/sdk/platform/service/power_manager/inc/sli_power_manager.h"/>
+          </folder>
+        </folder>
+        <folder name="system">
+          <folder name="src">
+            <file name="sl_system_init.c" linked="false" uri="studio:/sdk/platform/service/system/src/sl_system_init.c"/>
+            <file name="sl_system_process_action.c" linked="false" uri="studio:/sdk/platform/service/system/src/sl_system_process_action.c"/>
+          </folder>
+          <folder name="inc">
+            <file name="sl_system_init.h" linked="false" uri="studio:/sdk/platform/service/system/inc/sl_system_init.h"/>
+            <file name="sl_system_process_action.h" linked="false" uri="studio:/sdk/platform/service/system/inc/sl_system_process_action.h"/>
+          </folder>
+        </folder>
+        <folder name="sleeptimer">
+          <folder name="src">
+            <file name="sl_sleeptimer.c" linked="false" uri="studio:/sdk/platform/service/sleeptimer/src/sl_sleeptimer.c"/>
+            <file name="sl_sleeptimer_hal_rtcc.c" linked="false" uri="studio:/sdk/platform/service/sleeptimer/src/sl_sleeptimer_hal_rtcc.c"/>
+            <file name="sl_sleeptimer_hal_prortc.c" linked="false" uri="studio:/sdk/platform/service/sleeptimer/src/sl_sleeptimer_hal_prortc.c"/>
+            <file name="sli_sleeptimer_hal.h" linked="false" uri="studio:/sdk/platform/service/sleeptimer/src/sli_sleeptimer_hal.h"/>
+          </folder>
+          <folder name="inc">
+            <file name="sl_sleeptimer.h" linked="false" uri="studio:/sdk/platform/service/sleeptimer/inc/sl_sleeptimer.h"/>
+            <file name="sli_sleeptimer.h" linked="false" uri="studio:/sdk/platform/service/sleeptimer/inc/sli_sleeptimer.h"/>
+          </folder>
+        </folder>
+        <folder name="udelay">
+          <folder name="src">
+            <file name="sl_udelay.c" linked="false" uri="studio:/sdk/platform/service/udelay/src/sl_udelay.c"/>
+            <file name="sl_udelay_armv6m_gcc.S" linked="false" uri="studio:/sdk/platform/service/udelay/src/sl_udelay_armv6m_gcc.S"/>
+          </folder>
+          <folder name="inc">
+            <file name="sl_udelay.h" linked="false" uri="studio:/sdk/platform/service/udelay/inc/sl_udelay.h"/>
+          </folder>
+        </folder>
+      </folder>
+      <folder name="middleware">
+        <folder name="glib">
+          <folder name="dmd">
+            <folder name="display">
+              <file name="dmd_memlcd.c" linked="false" uri="studio:/sdk/platform/middleware/glib/dmd/display/dmd_memlcd.c"/>
+            </folder>
+            <file name="dmd.h" linked="false" uri="studio:/sdk/platform/middleware/glib/dmd/dmd.h"/>
+          </folder>
+          <folder name="glib">
+            <file name="bmp.c" linked="false" uri="studio:/sdk/platform/middleware/glib/glib/bmp.c"/>
+            <file name="glib.c" linked="false" uri="studio:/sdk/platform/middleware/glib/glib/glib.c"/>
+            <file name="glib_bitmap.c" linked="false" uri="studio:/sdk/platform/middleware/glib/glib/glib_bitmap.c"/>
+            <file name="glib_circle.c" linked="false" uri="studio:/sdk/platform/middleware/glib/glib/glib_circle.c"/>
+            <file name="glib_font_narrow_6x8.c" linked="false" uri="studio:/sdk/platform/middleware/glib/glib/glib_font_narrow_6x8.c"/>
+            <file name="glib_font_normal_8x8.c" linked="false" uri="studio:/sdk/platform/middleware/glib/glib/glib_font_normal_8x8.c"/>
+            <file name="glib_font_number_16x20.c" linked="false" uri="studio:/sdk/platform/middleware/glib/glib/glib_font_number_16x20.c"/>
+            <file name="glib_line.c" linked="false" uri="studio:/sdk/platform/middleware/glib/glib/glib_line.c"/>
+            <file name="glib_polygon.c" linked="false" uri="studio:/sdk/platform/middleware/glib/glib/glib_polygon.c"/>
+            <file name="glib_rectangle.c" linked="false" uri="studio:/sdk/platform/middleware/glib/glib/glib_rectangle.c"/>
+            <file name="glib_string.c" linked="false" uri="studio:/sdk/platform/middleware/glib/glib/glib_string.c"/>
+            <file name="bmp.h" linked="false" uri="studio:/sdk/platform/middleware/glib/glib/bmp.h"/>
+            <file name="glib.h" linked="false" uri="studio:/sdk/platform/middleware/glib/glib/glib.h"/>
+            <file name="glib_color.h" linked="false" uri="studio:/sdk/platform/middleware/glib/glib/glib_color.h"/>
+          </folder>
+          <file name="em_types.h" linked="false" uri="studio:/sdk/platform/middleware/glib/em_types.h"/>
+          <file name="bmp_conf.h" linked="false" uri="studio:/sdk/platform/middleware/glib/bmp_conf.h"/>
+          <file name="bpmfont.h" linked="false" uri="studio:/sdk/platform/middleware/glib/bpmfont.h"/>
+        </folder>
+      </folder>
+      <folder name="emlib">
+        <folder name="inc">
+          <file name="em_chip.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_chip.h"/>
+          <file name="em_cmu.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_cmu.h"/>
+          <file name="em_cmu_compat.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_cmu_compat.h"/>
+          <file name="em_assert.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_assert.h"/>
+          <file name="em_bus.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_bus.h"/>
+          <file name="em_common.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_common.h"/>
+          <file name="em_ramfunc.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_ramfunc.h"/>
+          <file name="em_version.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_version.h"/>
+          <file name="em_core.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_core.h"/>
+          <file name="em_crypto.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_crypto.h"/>
+          <file name="em_crypto_compat.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_crypto_compat.h"/>
+          <file name="em_emu.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_emu.h"/>
+          <file name="em_gpio.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_gpio.h"/>
+          <file name="em_i2c.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_i2c.h"/>
+          <file name="em_letimer.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_letimer.h"/>
+          <file name="em_msc.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_msc.h"/>
+          <file name="em_msc_compat.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_msc_compat.h"/>
+          <file name="em_prs.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_prs.h"/>
+          <file name="em_rtcc.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_rtcc.h"/>
+          <file name="em_system.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_system.h"/>
+          <file name="em_usart.h" linked="false" uri="studio:/sdk/platform/emlib/inc/em_usart.h"/>
+        </folder>
+        <folder name="src">
+          <file name="em_cmu.c" linked="false" uri="studio:/sdk/platform/emlib/src/em_cmu.c"/>
+          <file name="em_assert.c" linked="false" uri="studio:/sdk/platform/emlib/src/em_assert.c"/>
+          <file name="em_core.c" linked="false" uri="studio:/sdk/platform/emlib/src/em_core.c"/>
+          <file name="em_crypto.c" linked="false" uri="studio:/sdk/platform/emlib/src/em_crypto.c"/>
+          <file name="em_emu.c" linked="false" uri="studio:/sdk/platform/emlib/src/em_emu.c"/>
+          <file name="em_gpio.c" linked="false" uri="studio:/sdk/platform/emlib/src/em_gpio.c"/>
+          <file name="em_i2c.c" linked="false" uri="studio:/sdk/platform/emlib/src/em_i2c.c"/>
+          <file name="em_letimer.c" linked="false" uri="studio:/sdk/platform/emlib/src/em_letimer.c"/>
+          <file name="em_msc.c" linked="false" uri="studio:/sdk/platform/emlib/src/em_msc.c"/>
+          <file name="em_prs.c" linked="false" uri="studio:/sdk/platform/emlib/src/em_prs.c"/>
+          <file name="em_rtcc.c" linked="false" uri="studio:/sdk/platform/emlib/src/em_rtcc.c"/>
+          <file name="em_system.c" linked="false" uri="studio:/sdk/platform/emlib/src/em_system.c"/>
+          <file name="em_usart.c" linked="false" uri="studio:/sdk/platform/emlib/src/em_usart.c"/>
+        </folder>
+      </folder>
+      <folder name="driver">
+        <folder name="i2cspm">
+          <folder name="src">
+            <file name="sl_i2cspm.c" linked="false" uri="studio:/sdk/platform/driver/i2cspm/src/sl_i2cspm.c"/>
+          </folder>
+          <folder name="inc">
+            <file name="sl_i2cspm.h" linked="false" uri="studio:/sdk/platform/driver/i2cspm/inc/sl_i2cspm.h"/>
+          </folder>
+        </folder>
+      </folder>
+      <folder name="radio">
+        <folder name="rail_lib">
+          <folder name="common">
+            <file name="rail.h" linked="false" uri="studio:/sdk/platform/radio/rail_lib/common/rail.h"/>
+            <file name="rail_mfm.h" linked="false" uri="studio:/sdk/platform/radio/rail_lib/common/rail_mfm.h"/>
+            <file name="rail_assert_error_codes.h" linked="false" uri="studio:/sdk/platform/radio/rail_lib/common/rail_assert_error_codes.h"/>
+            <file name="rail_types.h" linked="false" uri="studio:/sdk/platform/radio/rail_lib/common/rail_types.h"/>
+            <file name="rail_features.h" linked="false" uri="studio:/sdk/platform/radio/rail_lib/common/rail_features.h"/>
+          </folder>
+          <folder name="protocol">
+            <folder name="ble">
+              <file name="rail_ble.h" linked="false" uri="studio:/sdk/platform/radio/rail_lib/protocol/ble/rail_ble.h"/>
+            </folder>
+            <folder name="ieee802154">
+              <file name="rail_ieee802154.h" linked="false" uri="studio:/sdk/platform/radio/rail_lib/protocol/ieee802154/rail_ieee802154.h"/>
+            </folder>
+            <folder name="zwave">
+              <file name="rail_zwave.h" linked="false" uri="studio:/sdk/platform/radio/rail_lib/protocol/zwave/rail_zwave.h"/>
+            </folder>
+          </folder>
+          <folder name="chip">
+            <folder name="efr32">
+              <folder name="efr32xg1x">
+                <file name="rail_chip_specific.h" linked="false" uri="studio:/sdk/platform/radio/rail_lib/chip/efr32/efr32xg1x/rail_chip_specific.h"/>
+              </folder>
+            </folder>
+          </folder>
+          <folder name="autogen">
+            <folder name="librail_release">
+              <file name="librail_efr32xg13_gcc_release.a" linked="false" uri="studio:/sdk/platform/radio/rail_lib/autogen/librail_release/librail_efr32xg13_gcc_release.a"/>
+            </folder>
+          </folder>
+          <folder name="plugin">
+            <folder name="pa-conversions">
+              <folder name="efr32xg1x">
+                <file name="sl_rail_util_pa_curves.h" linked="false" uri="studio:/sdk/platform/radio/rail_lib/plugin/pa-conversions/efr32xg1x/sl_rail_util_pa_curves.h"/>
+              </folder>
+              <file name="pa_conversions_efr32.c" linked="false" uri="studio:/sdk/platform/radio/rail_lib/plugin/pa-conversions/pa_conversions_efr32.c"/>
+              <file name="pa_curves_efr32.c" linked="false" uri="studio:/sdk/platform/radio/rail_lib/plugin/pa-conversions/pa_curves_efr32.c"/>
+              <file name="pa_conversions_efr32.h" linked="false" uri="studio:/sdk/platform/radio/rail_lib/plugin/pa-conversions/pa_conversions_efr32.h"/>
+              <file name="pa_curve_types_efr32.h" linked="false" uri="studio:/sdk/platform/radio/rail_lib/plugin/pa-conversions/pa_curve_types_efr32.h"/>
+              <file name="pa_curves_efr32.h" linked="false" uri="studio:/sdk/platform/radio/rail_lib/plugin/pa-conversions/pa_curves_efr32.h"/>
+            </folder>
+            <folder name="rail_util_pti">
+              <file name="sl_rail_util_pti.c" linked="false" uri="studio:/sdk/platform/radio/rail_lib/plugin/rail_util_pti/sl_rail_util_pti.c"/>
+              <file name="sl_rail_util_pti.h" linked="false" uri="studio:/sdk/platform/radio/rail_lib/plugin/rail_util_pti/sl_rail_util_pti.h"/>
+            </folder>
+          </folder>
+        </folder>
+      </folder>
+    </folder>
+    <folder name="app">
+      <folder name="common">
+        <folder name="util">
+          <folder name="app_assert">
+            <file name="app_assert.h" linked="false" uri="studio:/sdk/app/common/util/app_assert/app_assert.h"/>
+            <file name="sl_app_assert.h" linked="false" uri="studio:/sdk/app/common/util/app_assert/sl_app_assert.h"/>
+          </folder>
+          <folder name="app_log">
+            <file name="app_log.c" linked="false" uri="studio:/sdk/app/common/util/app_log/app_log.c"/>
+            <file name="app_log.h" linked="false" uri="studio:/sdk/app/common/util/app_log/app_log.h"/>
+            <file name="sl_app_log.h" linked="false" uri="studio:/sdk/app/common/util/app_log/sl_app_log.h"/>
+          </folder>
+        </folder>
+      </folder>
+      <folder name="bluetooth">
+        <folder name="common">
+          <folder name="ota_dfu">
+            <file name="sl_ota_dfu.c" linked="false" uri="studio:/sdk/app/bluetooth/common/ota_dfu/sl_ota_dfu.c"/>
+            <file name="sl_ota_dfu.h" linked="false" uri="studio:/sdk/app/bluetooth/common/ota_dfu/sl_ota_dfu.h"/>
+          </folder>
+        </folder>
+      </folder>
+    </folder>
+    <folder name="protocol">
+      <folder name="bluetooth">
+        <folder name="lib">
+          <folder name="EFR32BG13P">
+            <folder name="GCC">
+              <file name="binapploader.o" linked="false" uri="studio:/sdk/protocol/bluetooth/lib/EFR32BG13P/GCC/binapploader.o"/>
+              <file name="libbluetooth.a" linked="false" uri="studio:/sdk/protocol/bluetooth/lib/EFR32BG13P/GCC/libbluetooth.a"/>
+              <file name="libpsstore.a" linked="false" uri="studio:/sdk/protocol/bluetooth/lib/EFR32BG13P/GCC/libpsstore.a"/>
+            </folder>
+          </folder>
+        </folder>
+        <folder name="src">
+          <file name="sl_bt_mbedtls_context.c" linked="false" uri="studio:/sdk/protocol/bluetooth/src/sl_bt_mbedtls_context.c"/>
+        </folder>
+        <folder name="inc">
+          <file name="sl_bt_stack_config.h" linked="false" uri="studio:/sdk/protocol/bluetooth/inc/sl_bt_stack_config.h"/>
+          <file name="sl_bt_ll_config.h" linked="false" uri="studio:/sdk/protocol/bluetooth/inc/sl_bt_ll_config.h"/>
+          <file name="sli_bt_gattdb_def.h" linked="false" uri="studio:/sdk/protocol/bluetooth/inc/sli_bt_gattdb_def.h"/>
+          <file name="sl_bgapi.h" linked="false" uri="studio:/sdk/protocol/bluetooth/inc/sl_bgapi.h"/>
+          <file name="sl_bt_api.h" linked="false" uri="studio:/sdk/protocol/bluetooth/inc/sl_bt_api.h"/>
+          <file name="sl_bt_api_compatibility.h" linked="false" uri="studio:/sdk/protocol/bluetooth/inc/sl_bt_api_compatibility.h"/>
+          <file name="sl_bt_stack_init.h" linked="false" uri="studio:/sdk/protocol/bluetooth/inc/sl_bt_stack_init.h"/>
+          <file name="sl_bt_types.h" linked="false" uri="studio:/sdk/protocol/bluetooth/inc/sl_bt_types.h"/>
+          <file name="sl_bt_version.h" linked="false" uri="studio:/sdk/protocol/bluetooth/inc/sl_bt_version.h"/>
+          <file name="sl_bt_mbedtls_context.h" linked="false" uri="studio:/sdk/protocol/bluetooth/inc/sl_bt_mbedtls_context.h"/>
+        </folder>
+        <folder name="api">
+          <file name="sl_bt.xapi" linked="false" uri="studio:/sdk/protocol/bluetooth/api/sl_bt.xapi"/>
+        </folder>
+      </folder>
+    </folder>
+    <folder name="hardware">
+      <folder name="board">
+        <folder name="src">
+          <file name="sl_board_init.c" linked="false" uri="studio:/sdk/hardware/board/src/sl_board_init.c"/>
+          <file name="sl_board_control_gpio.c" linked="false" uri="studio:/sdk/hardware/board/src/sl_board_control_gpio.c"/>
+        </folder>
+        <folder name="inc">
+          <file name="sl_board_control.h" linked="false" uri="studio:/sdk/hardware/board/inc/sl_board_control.h"/>
+          <file name="sl_board_init.h" linked="false" uri="studio:/sdk/hardware/board/inc/sl_board_init.h"/>
+        </folder>
+      </folder>
+      <folder name="driver">
+        <folder name="memlcd">
+          <folder name="src">
+            <folder name="ls013b7dh03">
+              <file name="sl_memlcd_display.h" linked="false" uri="studio:/sdk/hardware/driver/memlcd/src/ls013b7dh03/sl_memlcd_display.h"/>
+            </folder>
+            <folder name="memlcd_usart">
+              <file name="sl_memlcd_spi.c" linked="false" uri="studio:/sdk/hardware/driver/memlcd/src/memlcd_usart/sl_memlcd_spi.c"/>
+            </folder>
+            <file name="sl_memlcd.c" linked="false" uri="studio:/sdk/hardware/driver/memlcd/src/sl_memlcd.c"/>
+            <file name="sl_memlcd_display.c" linked="false" uri="studio:/sdk/hardware/driver/memlcd/src/sl_memlcd_display.c"/>
+          </folder>
+          <folder name="inc">
+            <folder name="memlcd_usart">
+              <file name="sl_memlcd_spi.h" linked="false" uri="studio:/sdk/hardware/driver/memlcd/inc/memlcd_usart/sl_memlcd_spi.h"/>
+            </folder>
+            <file name="sl_memlcd.h" linked="false" uri="studio:/sdk/hardware/driver/memlcd/inc/sl_memlcd.h"/>
+          </folder>
+        </folder>
+        <folder name="mx25_flash_shutdown">
+          <folder name="src">
+            <folder name="sl_mx25_flash_shutdown_usart">
+              <file name="sl_mx25_flash_shutdown.c" linked="false" uri="studio:/sdk/hardware/driver/mx25_flash_shutdown/src/sl_mx25_flash_shutdown_usart/sl_mx25_flash_shutdown.c"/>
+            </folder>
+          </folder>
+          <folder name="inc">
+            <folder name="sl_mx25_flash_shutdown_usart">
+              <file name="sl_mx25_flash_shutdown.h" linked="false" uri="studio:/sdk/hardware/driver/mx25_flash_shutdown/inc/sl_mx25_flash_shutdown_usart/sl_mx25_flash_shutdown.h"/>
+            </folder>
+          </folder>
+        </folder>
+      </folder>
+    </folder>
+    <folder name="util">
+      <folder name="third_party">
+        <folder name="crypto">
+          <folder name="mbedtls">
+            <folder name="library">
+              <file name="aes.c" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/aes.c"/>
+              <file name="cipher.c" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/cipher.c"/>
+              <file name="cipher_wrap.c" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/cipher_wrap.c"/>
+              <file name="cmac.c" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/cmac.c"/>
+              <file name="error.c" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/error.c"/>
+              <file name="threading.c" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/threading.c"/>
+              <file name="platform.c" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/platform.c"/>
+              <file name="platform_util.c" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/platform_util.c"/>
+              <file name="common.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/common.h"/>
+              <file name="ecp_invasive.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/ecp_invasive.h"/>
+              <file name="ssl_invasive.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/ssl_invasive.h"/>
+              <file name="ssl_tls13_keys.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/ssl_tls13_keys.h"/>
+              <file name="ecp.c" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/ecp.c"/>
+              <file name="ecp_curves.c" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/ecp_curves.c"/>
+              <file name="ecdh.c" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/ecdh.c"/>
+              <file name="ecdsa.c" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/ecdsa.c"/>
+              <file name="bignum.c" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/bignum.c"/>
+              <file name="entropy.c" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/entropy.c"/>
+              <file name="entropy_poll.c" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/entropy_poll.c"/>
+              <file name="ctr_drbg.c" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/ctr_drbg.c"/>
+              <file name="hmac_drbg.c" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/hmac_drbg.c"/>
+              <file name="sha256.c" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/sha256.c"/>
+              <file name="psa_crypto_client.c" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/psa_crypto_client.c"/>
+              <file name="psa_crypto_service_integration.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/library/psa_crypto_service_integration.h"/>
+            </folder>
+            <folder name="include">
+              <folder name="mbedtls">
+                <file name="aes.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/aes.h"/>
+                <file name="arc4.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/arc4.h"/>
+                <file name="blowfish.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/blowfish.h"/>
+                <file name="camellia.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/camellia.h"/>
+                <file name="cipher.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/cipher.h"/>
+                <file name="cipher_internal.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/cipher_internal.h"/>
+                <file name="cmac.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/cmac.h"/>
+                <file name="aesni.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/aesni.h"/>
+                <file name="aria.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/aria.h"/>
+                <file name="asn1.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/asn1.h"/>
+                <file name="asn1write.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/asn1write.h"/>
+                <file name="base64.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/base64.h"/>
+                <file name="bignum.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/bignum.h"/>
+                <file name="bn_mul.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/bn_mul.h"/>
+                <file name="ccm.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/ccm.h"/>
+                <file name="certs.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/certs.h"/>
+                <file name="chacha20.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/chacha20.h"/>
+                <file name="chachapoly.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/chachapoly.h"/>
+                <file name="check_config.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/check_config.h"/>
+                <file name="compat-1.3.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/compat-1.3.h"/>
+                <file name="config.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/config.h"/>
+                <file name="config_psa.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/config_psa.h"/>
+                <file name="ctr_drbg.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/ctr_drbg.h"/>
+                <file name="debug.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/debug.h"/>
+                <file name="des.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/des.h"/>
+                <file name="dhm.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/dhm.h"/>
+                <file name="ecdh.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/ecdh.h"/>
+                <file name="ecdsa.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/ecdsa.h"/>
+                <file name="ecjpake.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/ecjpake.h"/>
+                <file name="ecp.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/ecp.h"/>
+                <file name="ecp_internal.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/ecp_internal.h"/>
+                <file name="entropy.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/entropy.h"/>
+                <file name="entropy_poll.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/entropy_poll.h"/>
+                <file name="error.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/error.h"/>
+                <file name="gcm.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/gcm.h"/>
+                <file name="havege.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/havege.h"/>
+                <file name="hkdf.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/hkdf.h"/>
+                <file name="hmac_drbg.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/hmac_drbg.h"/>
+                <file name="md.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/md.h"/>
+                <file name="md2.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/md2.h"/>
+                <file name="md4.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/md4.h"/>
+                <file name="md5.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/md5.h"/>
+                <file name="md_internal.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/md_internal.h"/>
+                <file name="memory_buffer_alloc.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/memory_buffer_alloc.h"/>
+                <file name="net.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/net.h"/>
+                <file name="net_sockets.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/net_sockets.h"/>
+                <file name="nist_kw.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/nist_kw.h"/>
+                <file name="oid.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/oid.h"/>
+                <file name="padlock.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/padlock.h"/>
+                <file name="pem.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/pem.h"/>
+                <file name="pk.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/pk.h"/>
+                <file name="pk_internal.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/pk_internal.h"/>
+                <file name="pkcs11.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/pkcs11.h"/>
+                <file name="pkcs12.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/pkcs12.h"/>
+                <file name="pkcs5.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/pkcs5.h"/>
+                <file name="platform.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/platform.h"/>
+                <file name="platform_time.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/platform_time.h"/>
+                <file name="platform_util.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/platform_util.h"/>
+                <file name="poly1305.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/poly1305.h"/>
+                <file name="psa_util.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/psa_util.h"/>
+                <file name="ripemd160.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/ripemd160.h"/>
+                <file name="rsa.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/rsa.h"/>
+                <file name="rsa_internal.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/rsa_internal.h"/>
+                <file name="sha1.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/sha1.h"/>
+                <file name="sha256.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/sha256.h"/>
+                <file name="sha512.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/sha512.h"/>
+                <file name="ssl.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/ssl.h"/>
+                <file name="ssl_cache.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/ssl_cache.h"/>
+                <file name="ssl_ciphersuites.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/ssl_ciphersuites.h"/>
+                <file name="ssl_cookie.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/ssl_cookie.h"/>
+                <file name="ssl_internal.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/ssl_internal.h"/>
+                <file name="ssl_ticket.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/ssl_ticket.h"/>
+                <file name="threading.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/threading.h"/>
+                <file name="timing.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/timing.h"/>
+                <file name="version.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/version.h"/>
+                <file name="x509.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/x509.h"/>
+                <file name="x509_crl.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/x509_crl.h"/>
+                <file name="x509_crt.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/x509_crt.h"/>
+                <file name="x509_csr.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/x509_csr.h"/>
+                <file name="xtea.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/mbedtls/xtea.h"/>
+              </folder>
+              <folder name="psa">
+                <file name="crypto.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/psa/crypto.h"/>
+                <file name="crypto_builtin_composites.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/psa/crypto_builtin_composites.h"/>
+                <file name="crypto_builtin_primitives.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/psa/crypto_builtin_primitives.h"/>
+                <file name="crypto_compat.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/psa/crypto_compat.h"/>
+                <file name="crypto_config.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/psa/crypto_config.h"/>
+                <file name="crypto_driver_common.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/psa/crypto_driver_common.h"/>
+                <file name="crypto_driver_contexts_composites.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/psa/crypto_driver_contexts_composites.h"/>
+                <file name="crypto_driver_contexts_primitives.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/psa/crypto_driver_contexts_primitives.h"/>
+                <file name="crypto_extra.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/psa/crypto_extra.h"/>
+                <file name="crypto_platform.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/psa/crypto_platform.h"/>
+                <file name="crypto_se_driver.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/psa/crypto_se_driver.h"/>
+                <file name="crypto_sizes.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/psa/crypto_sizes.h"/>
+                <file name="crypto_struct.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/psa/crypto_struct.h"/>
+                <file name="crypto_types.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/psa/crypto_types.h"/>
+                <file name="crypto_values.h" linked="false" uri="studio:/sdk/util/third_party/crypto/mbedtls/include/psa/crypto_values.h"/>
+              </folder>
+            </folder>
+          </folder>
+          <folder name="sl_component">
+            <folder name="sl_mbedtls_support">
+              <folder name="config">
+                <file name="config-device-acceleration.h" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_mbedtls_support/config/config-device-acceleration.h"/>
+                <file name="config-sl-crypto-all-acceleration.h" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_mbedtls_support/config/config-sl-crypto-all-acceleration.h"/>
+              </folder>
+              <folder name="src">
+                <file name="crypto_aes.c" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_mbedtls_support/src/crypto_aes.c"/>
+                <file name="crypto_ecp.c" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_mbedtls_support/src/crypto_ecp.c"/>
+                <file name="mbedtls_cmac.c" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_mbedtls_support/src/mbedtls_cmac.c"/>
+                <file name="mbedtls_sha.c" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_mbedtls_support/src/mbedtls_sha.c"/>
+              </folder>
+              <folder name="inc">
+                <file name="aes_alt.h" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_mbedtls_support/inc/aes_alt.h"/>
+                <file name="ccm_alt.h" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_mbedtls_support/inc/ccm_alt.h"/>
+                <file name="cmac_alt.h" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_mbedtls_support/inc/cmac_alt.h"/>
+                <file name="sha1_alt.h" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_mbedtls_support/inc/sha1_alt.h"/>
+                <file name="sha256_alt.h" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_mbedtls_support/inc/sha256_alt.h"/>
+                <file name="sha512_alt.h" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_mbedtls_support/inc/sha512_alt.h"/>
+                <file name="threading_alt.h" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_mbedtls_support/inc/threading_alt.h"/>
+                <file name="gcm_alt.h" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_mbedtls_support/inc/gcm_alt.h"/>
+              </folder>
+            </folder>
+            <folder name="sl_alt">
+              <folder name="source">
+                <file name="sl_entropy.c" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_alt/source/sl_entropy.c"/>
+                <file name="sl_mbedtls.c" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_alt/source/sl_mbedtls.c"/>
+              </folder>
+              <folder name="include">
+                <file name="sl_mbedtls.h" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_alt/include/sl_mbedtls.h"/>
+              </folder>
+            </folder>
+            <folder name="sl_psa_driver">
+              <folder name="src">
+                <file name="sli_psa_driver_common.c" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_psa_driver/src/sli_psa_driver_common.c"/>
+                <file name="sli_psa_trng.c" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_psa_driver/src/sli_psa_trng.c"/>
+                <file name="sli_crypto_trng_driver.c" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_psa_driver/src/sli_crypto_trng_driver.c"/>
+                <file name="sli_psa_driver_init.c" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_psa_driver/src/sli_psa_driver_init.c"/>
+                <file name="crypto_management.c" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_psa_driver/src/crypto_management.c"/>
+                <file name="sli_crypto_transparent_driver_cipher.c" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_psa_driver/src/sli_crypto_transparent_driver_cipher.c"/>
+                <file name="sli_crypto_transparent_driver_hash.c" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_psa_driver/src/sli_crypto_transparent_driver_hash.c"/>
+                <file name="sli_crypto_transparent_driver_mac.c" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_psa_driver/src/sli_crypto_transparent_driver_mac.c"/>
+                <file name="sli_crypto_transparent_driver_aead.c" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_psa_driver/src/sli_crypto_transparent_driver_aead.c"/>
+              </folder>
+              <folder name="inc">
+                <file name="sli_psa_driver_common.h" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_psa_driver/inc/sli_psa_driver_common.h"/>
+                <file name="sli_crypto_trng_driver.h" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_psa_driver/inc/sli_crypto_trng_driver.h"/>
+                <file name="crypto_management.h" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_psa_driver/inc/crypto_management.h"/>
+                <file name="sli_crypto_transparent_functions.h" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_psa_driver/inc/sli_crypto_transparent_functions.h"/>
+                <file name="sli_crypto_transparent_types.h" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_psa_driver/inc/sli_crypto_transparent_types.h"/>
+              </folder>
+            </folder>
+            <folder name="sl_protocol_crypto">
+              <folder name="src">
+                <file name="sli_protocol_crypto_crypto.c" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_protocol_crypto/src/sli_protocol_crypto_crypto.c"/>
+                <file name="sli_protocol_crypto.h" linked="false" uri="studio:/sdk/util/third_party/crypto/sl_component/sl_protocol_crypto/src/sli_protocol_crypto.h"/>
+              </folder>
+            </folder>
+          </folder>
+        </folder>
+      </folder>
+      <folder name="silicon_labs">
+        <folder name="silabs_core">
+          <folder name="memory_manager">
+            <file name="sl_malloc.c" linked="false" uri="studio:/sdk/util/silicon_labs/silabs_core/memory_manager/sl_malloc.c"/>
+            <file name="sl_malloc.h" linked="false" uri="studio:/sdk/util/silicon_labs/silabs_core/memory_manager/sl_malloc.h"/>
+          </folder>
+        </folder>
+      </folder>
+    </folder>
+  </folder>
+  <file name="main.c" linked="false" uri="studio:/project/main.c"/>
+  <file name="app.c" linked="false" uri="studio:/project/app.c"/>
+  <file name="app_properties.c" linked="false" uri="studio:/project/app_properties.c"/>
+  <file name="app.h" linked="false" uri="studio:/project/app.h"/>
+  <file name="create_bl_files.bat" linked="false" uri="studio:/project/create_bl_files.bat"/>
+  <file name="create_bl_files.sh" linked="false" uri="studio:/project/create_bl_files.sh"/>
+  <file name="readme_img0.png" linked="false" uri="studio:/project/readme_img0.png"/>
+  <file name="readme_img1.png" linked="false" uri="studio:/project/readme_img1.png"/>
+  <file name="readme_img2.png" linked="false" uri="studio:/project/readme_img2.png"/>
+  <file name="readme_img3.png" linked="false" uri="studio:/project/readme_img3.png"/>
+  <file name="readme_img4.png" linked="false" uri="studio:/project/readme_img4.png"/>
+  <file name="readme.html" linked="false" uri="file:/C:/Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.2/app/bluetooth/documentation/example/soc_empty/readme.html"/>
+  <includePath uri="studio:/project/"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/Device/SiliconLabs/EFR32BG13P/Include"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/app/common/util/app_assert"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/app/common/util/app_log"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/common/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/protocol/bluetooth/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/hardware/board/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/bootloader"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/bootloader/api"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/CMSIS/Include"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/service/device_init/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/middleware/glib/dmd"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/middleware/glib"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/emlib/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/middleware/glib/glib"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/driver/i2cspm/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/service/iostream/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/hardware/driver/memlcd/src/ls013b7dh03"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/util/third_party/crypto/mbedtls/include"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/util/third_party/crypto/sl_component/sl_mbedtls_support/config"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/util/third_party/crypto/mbedtls/library"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/util/third_party/crypto/sl_component/sl_alt/include"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/util/third_party/crypto/sl_component/sl_mbedtls_support/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/hardware/driver/memlcd/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/hardware/driver/memlcd/inc/memlcd_usart"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/service/mpu/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/hardware/driver/mx25_flash_shutdown/inc/sl_mx25_flash_shutdown_usart"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/app/bluetooth/common/ota_dfu"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/service/power_manager/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/util/third_party/crypto/sl_component/sl_psa_driver/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/radio/rail_lib/common"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/radio/rail_lib/protocol/ble"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/radio/rail_lib/protocol/ieee802154"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/radio/rail_lib/protocol/zwave"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/radio/rail_lib/chip/efr32/efr32xg1x"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/radio/rail_lib/plugin/pa-conversions"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/radio/rail_lib/plugin/pa-conversions/efr32xg1x"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/radio/rail_lib/plugin/rail_util_pti"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/util/silicon_labs/silabs_core/memory_manager"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/common/toolchain/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/service/system/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/service/sleeptimer/inc"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/util/third_party/crypto/sl_component/sl_protocol_crypto/src"/>
+  <includePath uri="studio:/project/gecko_sdk_3.2.9/platform/service/udelay/inc"/>
+  <macroDefinition name="EFR32BG13P632F512GM48"/>
+  <macroDefinition name="SL_COMPONENT_CATALOG_PRESENT"/>
+  <macroDefinition name="MBEDTLS_CONFIG_FILE" value="&lt;mbedtls_config.h>"/>
+  <macroDefinition name="MBEDTLS_PSA_CRYPTO_CLIENT"/>
+  <macroDefinition name="MBEDTLS_PSA_CRYPTO_CONFIG_FILE" value="&lt;psa_crypto_config.h>"/>
+  <macroDefinition name="SL_RAIL_LIB_MULTIPROTOCOL_SUPPORT" value="0"/>
+  <macroDefinition name="SL_RAIL_UTIL_PA_CONFIG_HEADER" value="&lt;sl_rail_util_pa_config.h>"/>
+  <libraryFile uri="studio:/project/gecko_sdk_3.2.9/protocol/bluetooth/lib/EFR32BG13P/GCC/binapploader.o"/>
+  <libraryFile uri="studio:/project/gecko_sdk_3.2.9/protocol/bluetooth/lib/EFR32BG13P/GCC/libbluetooth.a"/>
+  <libraryFile uri="studio:/project/gecko_sdk_3.2.9/protocol/bluetooth/lib/EFR32BG13P/GCC/libpsstore.a"/>
+  <libraryFile uri="studio:/project/gecko_sdk_3.2.9/platform/radio/rail_lib/autogen/librail_release/librail_efr32xg13_gcc_release.a"/>
+  <libraryFile name="gcc"/>
+  <libraryFile name="c"/>
+  <libraryFile name="m"/>
+  <libraryFile name="nosys"/>
+  <toolOption toolId="toolOption.uc.toolchain" optionId="toolOption.uc.toolchain.cpu" value="cortex-m4"/>
+  <toolOption toolId="toolOption.uc.toolchain" optionId="toolOption.uc.toolchain.fpu" value="fpv4-sp"/>
+  <toolOption toolId="toolOption.uc.toolchain" optionId="toolOption.uc.toolchain.float_abi" value="softfp"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.preinclude">
+    <toolListOption value="sl_gcc_preinclude.h"/>
+  </toolOption>
+  <toolOption toolId="toolOption.uc.assembler" optionId="toolOption.uc.assembler.preinclude">
+    <toolListOption value="sl_gcc_preinclude.h"/>
+  </toolOption>
+  <toolOption toolId="toolOption.uc.linker" optionId="toolOption.uc.linker.linkerScript" value="$project/autogen/linkerfile.ld"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.function_sections" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.data_sections" value="true"/>
+  <toolOption toolId="toolOption.uc.linker" optionId="toolOption.uc.linker.nano_c_libs" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.omit_frame_pointer" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.no_exceptions" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.no_rtti" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.no_builtin" value="true"/>
+  <toolOption toolId="toolOption.uc.linker" optionId="toolOption.uc.linker.generateMapFile" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.c_standard" value="c99"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.cxx_standard" value="c++11"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.warnings.all" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.warnings.extra" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.warnings.pedantic" value="false"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.warnings.are_errors" value="false"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.optimization" value="size"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.floatingpoint.type" value="floatingpoint.type.softfp"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.floatingpoint.enable" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.floatingpoint.type" value="floatingpoint.type.softfp"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.floatingpoint.type" value="floatingpoint.type.softfp"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.floatingpoint.enable" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.floatingpoint.enable" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.floatingpoint.type" value="floatingpoint.type.softfp"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.floatingpoint.type" value="floatingpoint.type.softfp"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.floatingpoint.enable" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.floatingpoint.enable" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.preinclude">
+    <toolListOption value="sl_gcc_preinclude.h"/>
+  </toolOption>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.preinclude">
+    <toolListOption value="sl_gcc_preinclude.h"/>
+  </toolOption>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.preinclude">
+    <toolListOption value="sl_gcc_preinclude.h"/>
+  </toolOption>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.misc.dialect" value="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.misc.dialect.c99"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.misc.dialect" value="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.misc.dialect.cpp0x"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.no_rtti" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.no_exceptions" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.debug.builtin" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.debug.builtin" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.optimization.level" value="gnu.c.optimization.level.size"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.optimization.level" value="gnu.cpp.compiler.optimization.level.size"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.optimization.datasect" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.optimization.datasect" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.optimization.functionsects" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.optimization.functionsects" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.optimization.omitframepointer" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.optimization.omitframepointer" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="gnu.c.compiler.option.warnings.allwarn" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="gnu.cpp.compiler.option.warnings.allwarn" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="gnu.c.compiler.option.warnings.extrawarn" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="gnu.cpp.compiler.option.warnings.extrawarn" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="gnu.c.compiler.option.warnings.toerrors" value="false"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="gnu.cpp.compiler.option.warnings.toerrors" value="false"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="gnu.c.compiler.option.warnings.pedantic" value="false"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="gnu.cpp.compiler.option.warnings.pedantic" value="false"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.toolchain.exe" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.script" value="${workspace_loc:/${ProjName}/autogen/linkerfile.ld}"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.toolchain.exe" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.usescript" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.clibs" value="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.nanospec"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.clibs" value="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.nanospec"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.map" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.map" value="true"/>
+  <toolOption toolId="studio.ide.project" optionId="device_opn" value="efr32bg13p632f512gm48"/>
+  <toolOption toolId="makefile.arm.gcc.linker" optionId="misc">
+    <toolListOption value="-Wl,--gc-sections"/>
+  </toolOption>
+  <toolOption toolId="makefile.arm.gcc.compiler" optionId="misc">
+    <toolListOption value="--specs=nano.specs"/>
+    <toolListOption value="-g"/>
+  </toolOption>
+  <toolOption toolId="makefile.arm.gcc.assembler" optionId="misc">
+    <toolListOption value="-x assembler-with-cpp"/>
+  </toolOption>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.circulardependency" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.nostdlibs" value="false"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.circulardependency" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.gnu.c.compiler.option.misc.otherlist">
+    <toolListOption value="-c"/>
+    <toolListOption value="-fmessage-length=0"/>
+  </toolOption>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.gnu.cpp.compiler.option.misc.otherlist">
+    <toolListOption value="-c"/>
+    <toolListOption value="-fmessage-length=0"/>
+  </toolOption>
+</project>
