@@ -1,9 +1,6 @@
 # HeartBeat-BLE-IoT-Stress-Management-System
 HeartBeat BLE is an IoT-based stress management solution developed as part of the ECEN 5823: IoT Embedded Firmware course at the University of Colorado Boulder. This system provides real-time heart rate and blood oxygen level monitoring using Bluetooth Low Energy (BLE) technology.
-
-![image](https://github.com/user-attachments/assets/61b73c96-e236-4537-b499-151f7421a9cf)
-
-
+![image](https://github.com/user-attachments/assets/94b6c502-63ca-4f99-91d6-1ac1b284e104)
 # The core components of the system include:
 Two EFR32BG13 Blue Gecko boards (one acting as a GATT Server, the other as a GATT Client)
 MAX30105 Particle and Pulse Ox Sensor
@@ -26,6 +23,7 @@ Displays sensor data on its LCD screen
 Controls the energy modes and data acquisition from the server
 # Software Architecture
 The system is built on a client-server model using BLE communication:
+![image](https://github.com/user-attachments/assets/69f0a7c9-e070-46d7-bf4e-7b5591daff29)
 ## GATT Server:
 Reads sensor data from MAX30105
 Updates LED array based on heart rate
@@ -36,6 +34,7 @@ Handles user input via capacitive touch slider
 Discovers and connects to server services
 Displays sensor data on LCD
 Controls server's energy modes and data acquisition
+![image](https://github.com/user-attachments/assets/61b73c96-e236-4537-b499-151f7421a9cf)
 # Key Features
 Energy Efficiency: Utilizes various energy modes (EM0, EM1, EM2) to optimize power consumption.
 Secure Communication: Implements encrypted BLE links with bonding between client and server.
